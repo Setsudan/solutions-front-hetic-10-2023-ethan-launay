@@ -1,0 +1,202 @@
+[
+    {
+        "chatRoomId": "azegjahegjhaggauyteazeac",
+        "chatRoomName": "Room 1",
+        "participants" : ["Michael", "Alyssa"],
+        "messages": [
+            {
+                "senderId": "Michael",
+                "receiverId": "Alyssa",
+                "message": "Hey, how's it going?",
+                "timestamp": "2022-01-01T12:00:00Z"
+            },
+            {
+                "senderId": "Alyssa",
+                "receiverId": "Michael",
+                "message": "Not bad, thanks. How about you?",
+                "timestamp": "2022-01-01T12:01:00Z"
+            },
+            {
+                "senderId": "Michael",
+                "receiverId": "Alyssa",
+                "message": "I'm doing pretty well too. What have you been up to?",
+                "timestamp": "2022-01-01T12:02:00Z"
+            },
+            {
+                "senderId": "Alyssa",
+                "receiverId": "Michael",
+                "message": "Just working on some coding projects. How about you?",
+                "timestamp": "2022-01-01T12:03:00Z"
+            },
+            {
+                "senderId": "Michael",
+                "receiverId": "Alyssa",
+                "message": "Same here, actually. What kind of projects are you working on?",
+                "timestamp": "2022-01-01T12:04:00Z"
+            },
+            {
+                "senderId": "Alyssa",
+                "receiverId": "Michael",
+                "message": "I'm working on a web app for a client. How about you?",
+                "timestamp": "2022-01-01T12:05:00Z"
+            },
+            {
+                "senderId": "Michael",
+                "receiverId": "Alyssa",
+                "message": "I'm working on a mobile app for a startup. It's been pretty challenging, but I'm learning a lot.",
+                "timestamp": "2022-01-01T12:06:00Z"
+            },
+            {
+                "senderId": "Alyssa",
+                "receiverId": "Michael",
+                "message": "That sounds really cool. What kind of features does the app have?",
+                "timestamp": "2022-01-01T12:07:00Z"
+            },
+            {
+                "senderId": "Michael",
+                "receiverId": "Alyssa",
+                "message": "It's a social networking app, so it has features like messaging, profiles, and news feeds.",
+                "timestamp": "2022-01-01T12:08:00Z"
+            },
+            {
+                "senderId": "Alyssa",
+                "receiverId": "Michael",
+                "message": "Interesting. How long have you been working on it?",
+                "timestamp": "2022-01-01T12:09:00Z"
+            },
+            {
+                "senderId": "Michael",
+                "receiverId": "Alyssa",
+                "message": "About six months now. We're hoping to launch it in a few more months.",
+                "timestamp": "2022-01-01T12:10:00Z"
+            },
+            {
+                "senderId": "Alyssa",
+                "receiverId": "Michael",
+                "message": "Wow, that's a long time. But I'm sure it'll be worth it in the end.",
+                "timestamp": "2022-01-01T12:11:00Z"
+            },
+            {
+                "senderId": "Michael",
+                "receiverId": "Alyssa",
+                "message": "Yeah, I hope so. Anyway, it was great chatting with you. I should get back to work now.",
+                "timestamp": "2022-01-01T12:12:00Z"
+            },
+            {
+                "senderId": "Alyssa",
+                "receiverId": "Michael",
+                "message": "Yeah, same here. Good luck with your project!",
+                "timestamp": "2022-01-01T12:13:00Z"
+            },
+            {
+                "senderId": "Michael",
+                "receiverId": "Alyssa",
+                "message": "Thanks, you too!",
+                "timestamp": "2022-01-01T12:14:00Z"
+            },
+            {
+                "senderId": "Alyssa",
+                "receiverId": "Michael",
+                "message": "Bye!",
+                "timestamp": "2022-01-01T12:15:00Z"
+            },
+            {
+                "senderId": "Michael",
+                "receiverId": "Alyssa",
+                "message": "See ya!",
+                "timestamp": "2022-01-01T12:16:00Z"
+            },
+            {
+                "senderId": "Alyssa",
+                "receiverId": "Michael",
+                "message": "Hey, one more thing before you go...",
+                "timestamp": "2022-01-01T12:17:00Z"
+            },
+            {
+                "senderId": "Michael",
+                "receiverId": "Alyssa",
+                "message": "What's up?",
+                "timestamp": "2022-01-01T12:18:00Z"
+            },
+            {
+                "senderId": "Alyssa",
+                "receiverId": "Michael",
+                "message": "Do you want to grab lunch sometime this week? I know a great place nearby.",
+                "timestamp": "2022-01-01T12:19:00Z"
+            }
+        ]
+    },
+    {
+    "chatRoomId": "uhaiuhgdhgbvejhbdjhpojjn",
+    "chatRoomName": "Room 2",
+    "participants" : ["Michael", "Sarah"],
+    "messages": [
+        {
+            "senderId": "Sarah",
+            "receiverId": "Michael",
+            "message": "Hey, how's it going?",
+            "timestamp": "2022-01-02T12:00:00Z"
+        },
+        {
+            "senderId": "Michael",
+            "receiverId": "Sarah",
+            "message": "Not bad, thanks. How about you?",
+            "timestamp": "2022-01-02T12:01:00Z"
+        },
+        {
+            "senderId": "Sarah",
+            "receiverId": "Michael",
+            "message": "I'm doing pretty well too. What have you been up to?",
+            "timestamp": "2022-01-02T12:02:00Z"
+        },
+        {
+            "senderId": "Michael",
+            "receiverId": "Sarah",
+            "message": "Just working on some coding projects. How about you?",
+            "timestamp": "2022-01-02T12:03:00Z"
+        },
+        {
+            "senderId": "Sarah",
+            "receiverId": "Michael",
+            "message": "Same here, actually. What kind of projects are you working on?",
+            "timestamp": "2022-01-02T12:04:00Z"
+        }
+    ]
+},{
+    "chatRoomId": "jkvbzjhfbjhaevbfhajfvhgaz",
+    "chatRoomName": "Room 3",
+    "participants" : ["Michael", "Emily"],
+    "messages": [
+        {
+            "senderId": "Emily",
+            "receiverId": "Michael",
+            "message": "Hey, how's it going?",
+            "timestamp": "2022-01-03T12:00:00Z"
+        },
+        {
+            "senderId": "Michael",
+            "receiverId": "Emily",
+            "message": "Not bad, thanks. How about you?",
+            "timestamp": "2022-01-03T12:01:00Z"
+        },
+        {
+            "senderId": "Emily",
+            "receiverId": "Michael",
+            "message": "I'm doing pretty well too. What have you been up to?",
+            "timestamp": "2022-01-03T12:02:00Z"
+        },
+        {
+            "senderId": "Michael",
+            "receiverId": "Emily",
+            "message": "Just working on some coding projects. How about you?",
+            "timestamp": "2022-01-03T12:03:00Z"
+        },
+        {
+            "senderId": "Emily",
+            "receiverId": "Michael",
+            "message": "Same here, actually. What kind of projects are you working on?",
+            "timestamp": "2022-01-03T12:04:00Z"
+        }
+    ]
+}
+]
